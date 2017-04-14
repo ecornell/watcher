@@ -1,0 +1,2 @@
+#!/bin/bash
+docker exec -e LD_LIBRARY_PATH=/usr/lib/plexmediaserver plex /usr/lib/plexmediaserver/Plex\ Media\ Scanner $@
